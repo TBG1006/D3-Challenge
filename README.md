@@ -2,7 +2,7 @@
 
 # RESULT:
 
-![4-scatter](Images/result.png)
+![4-scatter](Images/result.PNG)
 
 
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
