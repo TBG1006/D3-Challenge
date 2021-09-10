@@ -1,13 +1,14 @@
-# D3 Homework - Data Journalism and D3
+## Background:
+Use [US Census Bureau Data](https://data.census.gov/cedsci/) to explore data on rates of income, obesity, poverty, etc. by state. Create a plot that shows the relationship between poverty rates and availability of healthcare.
 
-# RESULT:
+## Result:
 
 ![4-scatter](Images/result.PNG)
 
 
-![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
+<!-- ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
 
-## Background
+
 
 Welcome to the newsroom! You've just accepted a data visualization position for a major metro paper. You're tasked with analyzing the current trends shaping people's lives, as well as creating charts, graphs, and interactive elements to help readers understand your findings.
 
@@ -27,4 +28,4 @@ Using the D3 techniques we taught you in class, create a scatter plot that repre
 
 * Create and situate your axes and labels to the left and bottom of the chart.
 
-* Note: You'll need to use `python -m http.server` to run the visualization. This will host the page at `localhost:8000` in your web browser.
+* Note: You'll need to use `python -m http.server` to run the visualization. This will host the page at `localhost:8000` in your web browser. -->
